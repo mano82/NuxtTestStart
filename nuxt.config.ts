@@ -2,6 +2,7 @@
 export default defineNuxtConfig({
   modules: [
     '@nuxt/content',
+    '@vee-validate/nuxt',
   ],
   devtools: { enabled: true },
   future: {
